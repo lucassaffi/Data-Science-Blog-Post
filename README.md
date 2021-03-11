@@ -20,6 +20,6 @@ Libraries:
 - Matplotlib
 - Seaborn
 
-The inspiration for this project is from https://www.kaggle.com/airbnb/seattle/data, but since the data was from 2016, data from 2021 was downloaded from http://insideairbnb.com/get-the-data.html.
+The inspiration for this project is from Kaggle (https://www.kaggle.com/airbnb/seattle/data), but since the data was from 2016, data from 2021 was downloaded from http://insideairbnb.com/get-the-data.html.
 
 Other fonts: https://www.airbnb.com/d/howairbnbworks
