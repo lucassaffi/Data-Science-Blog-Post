@@ -8,7 +8,7 @@ This project aims to understand the market of apartament's and house's rent expl
 
 2) Is increasing or decresing? and is it the price ou the days rented the reason for the variation?
 
-3) Which are the most common amenitites?
+3) Which are the most common amenities?
 
 The dataset for this project is:
 - Listings, including full descriptions and average review score
