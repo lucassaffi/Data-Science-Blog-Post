@@ -10,13 +10,13 @@ This project aims to understand the market of apartament's and house's rent expl
 
 3. Which are the most common amenities?
 
-Description of file:
+#### Description of file:
 - Listings: Dataset including full descriptions and average review score.
 - Calendar: Dataset including listing id and the price and availability for that day.
 - Data Science Blog Post.ipynb: It has all code of the analysis and main conclusions in jupyter notebook.
 - Data Science Blog Post.html: It has all code of the analysis and main conclusions in html.
 
-Libraries:
+#### Libraries:
 - Pandas
 - Numpy
 - Matplotlib
