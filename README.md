@@ -1,4 +1,4 @@
-# Data Science Blog Post
+# Data Science Blog Post | Perspective earnings for Airbnb in Seattle in 2021
 
 ![imagem](https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 
@@ -12,7 +12,7 @@ This project aims to understand the market of apartament's and house's rent expl
 
 The inspiration for this project is from Kaggle (https://www.kaggle.com/airbnb/seattle/data), but since the data was from 2016, data from 2021 was downloaded from http://insideairbnb.com/get-the-data.html.
 
-## Summary of results:
+### **Summary of results:**
 
 1. Second semester indicates an incrase for earnings/rent for airbnb in Seattle between the most popular neighbourhoods in number of rents.
 2. Price and days not available impacts positively the increase of earnings in the second semester. Price increases 66% comparing december and january, but the number of days not available increases even more, with a 162% increase.
