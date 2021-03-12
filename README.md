@@ -16,7 +16,7 @@ The inspiration for this project is from Kaggle (https://www.kaggle.com/airbnb/s
 
 1. Second semester indicates an incrase for earnings/rent for airbnb in Seattle between the most popular neighbourhoods in number of rents.
 2. Price and days not available impacts positively the increase of earnings in the second semester. Price increases 66% comparing december and january, but the number of days not available increases even more, with a 162% increase.
-3. The 10 most common facilities are: Wifi, Smoke Alarms, Essentials, Heating, Hair Dryer, Shampoo, Carbon Moxide Alarm, Long Term Stays Allowed and Kitchen
+3. The 10 most common facilities are: Wifi, Smoke Alarms, Essentials, Heating, Hair Dryer, Shampoo, Carbon Moxide Alarm, Long Term Stays Allowed and Kitchen.
 
 Check my [post on Medium](https://medium.com/@lucassaffi_67427/perspective-earnings-for-airbnb-in-seattle-in-2021-fc321fa87120) to see all the results 
 
