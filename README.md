@@ -1,4 +1,4 @@
-# Data Science Blog Post | Perspective earnings for Airbnb in Seattle in 2021
+# Data Science Blog Post | Case Airbnb in Seattle - 2021
 
 ![imagem](https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 
@@ -18,9 +18,11 @@ The inspiration for this project is from Kaggle (https://www.kaggle.com/airbnb/s
 2. Price and days not available impacts positively the increase of earnings in the second semester. Price increases 66% comparing december and january, but the number of days not available increases even more, with a 162% increase.
 3. The 10 most common facilities are: Wifi, Smoke Alarms, Essentials, Heating, Hair Dryer, Shampoo, Carbon Moxide Alarm, Long Term Stays Allowed and Kitchen
 
+Check my [post on Medium](https://medium.com/@lucassaffi_67427/perspective-earnings-for-airbnb-in-seattle-in-2021-fc321fa87120) to see all the results 
+
 ### **Description of files:**
-- **Listings**: Dataset including full descriptions and average review score.
-- **Calendar**: Dataset including listing id and the price and availability for that day.
+- **Listings**: Dataset including full descriptions and average review score. Is not in this repository, but can be downloaded on [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
+- **Calendar**: Dataset including listing id and the price and availability for that day.Is not in this repository, but can be downloaded on [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
 - **Data Science Blog Post.ipynb**: It has all code of the analysis and main conclusions in jupyter notebook.
 - **Data Science Blog Post.html**: It has all code of the analysis and main conclusions in html.
 
