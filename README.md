@@ -21,10 +21,10 @@ The inspiration for this project is from Kaggle (https://www.kaggle.com/airbnb/s
 Check my [post on Medium](https://medium.com/@lucassaffi_67427/perspective-earnings-for-airbnb-in-seattle-in-2021-fc321fa87120) to see all the results 
 
 ### **Description of files:**
-- **Listings**: Dataset including full descriptions and average review score. Is not in this repository due to dificulties to upload, but can be downloaded on [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
-- **Calendar**: Dataset including listing id and the price and availability for that day. Is not in this repository due to dificulties to upload, but can be downloaded on [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
 - **Data Science Blog Post.ipynb**: It has all code of the analysis and main conclusions in jupyter notebook.
 - **Data Science Blog Post.html**: It has all code of the analysis and main conclusions in html.
+- **Listings**: Dataset including full descriptions and average review score. Is not in this repository due to dificulties to upload, but can be downloaded on [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
+- **Calendar**: Dataset including listing id and the price and availability for that day. Is not in this repository due to dificulties to upload, but can be downloaded on [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
 
 ### **Libraries:**
 - Pandas
