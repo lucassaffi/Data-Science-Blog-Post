@@ -4,15 +4,17 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 
 This project aims to understand the market of apartament's and house's rent exploring data of airBnB rents in Seattle. In order to understand the behavior of the market and its characteristics 3 questions will be answered:
 
-1) How much AirBNB homes are earning in certain time frames and areas?
+1. How much AirBNB homes are earning in certain time frames and areas?
 
-2) Is increasing or decresing? and is it the price ou the days rented the reason for the variation?
+2. Is increasing or decresing? and is it the price ou the days rented the reason for the variation?
 
-3) Which are the most common amenities?
+3. Which are the most common amenities?
 
-The dataset for this project is:
-- Listings, including full descriptions and average review score
-- Calendar, including listing id and the price and availability for that day
+Description of file:
+- Listings: Dataset including full descriptions and average review score.
+- Calendar: Dataset including listing id and the price and availability for that day.
+- Data Science Blog Post.ipynb: It has all code of the analysis and main conclusions in jupyter notebook.
+- Data Science Blog Post.html: It has all code of the analysis and main conclusions in html.
 
 Libraries:
 - Pandas
